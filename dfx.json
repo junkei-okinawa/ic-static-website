@@ -1,0 +1,10 @@
+{
+    "canisters": {
+        "portfolio": {
+            "type": "assets",
+            "source": [
+                "dist"
+            ]
+        }
+    }
+}
