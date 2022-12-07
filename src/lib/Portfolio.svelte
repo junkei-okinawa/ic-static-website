@@ -1,5 +1,22 @@
 <script>
-    let projects = [{ name: "Comming soon.", url: "YOUR_PROJECT_URL" }];
+    let projects = [
+        {
+            name: "ICP Basic DEX ",
+            url: "https://afwvz-cyaaa-aaaap-qauqa-cai.ic0.app/",
+        },
+        {
+            name: "NEAR Bike Share Dapp",
+            url: "https://near-bikeshare-dapp-junkei.netlify.app/",
+        },
+        {
+            name: "NEAR Election Dapp",
+            url: "https://near-election-dapp-junkei.netlify.app/",
+        },
+        {
+            name: "ASTAR Socialfi Dapp",
+            url: "https://astar-socialfi-frontend-kappa.vercel.app/",
+        },
+    ];
 </script>
 
 <!-- Nav.svelteの`href="#portfolio"`と紐づく`id`を指定する -->
